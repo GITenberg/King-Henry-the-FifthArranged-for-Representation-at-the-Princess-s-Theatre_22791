@@ -25,6 +25,8 @@ description: Henry V is a history play by William Shakespeare, believed to have 
   on events immediately before and after the Battle of Agincourt (1415) during the
   Hundred Years' War. In the First Quarto text, it was entitled The Cronicle History
   of Henry the fift, which became The Life of Henry the Fifth in the First Folio text.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22791#King-Henry-the-FifthArranged-for-Representation-at-the-Princess-s-Theatre
 gutenberg_issued: '2007-09-28'
 gutenberg_type: Text
 identifiers:
